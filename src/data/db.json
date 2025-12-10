@@ -1,0 +1,108 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "coinId": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "amount": 0.5,
+      "purchasePrice": 42000,
+      "purchaseDate": "2023-11-15",
+      "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+      "notes": "Long term hold",
+      "addedDate": "2023-11-15T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "coinId": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "amount": 5,
+      "purchasePrice": 2500,
+      "purchaseDate": "2024-01-10",
+      "image": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "notes": "Staking position",
+      "addedDate": "2024-01-10T14:30:00Z"
+    },
+    {
+      "id": "3",
+      "coinId": "solana",
+      "name": "Solana",
+      "symbol": "sol",
+      "amount": 100,
+      "purchasePrice": 25,
+      "purchaseDate": "2023-01-20",
+      "image": "https://assets.coingecko.com/coins/images/4128/large/solana.png",
+      "notes": "High risk play, bought at dip",
+      "addedDate": "2023-01-20T09:15:00Z"
+    },
+    {
+      "id": "4",
+      "coinId": "cardano",
+      "name": "Cardano",
+      "symbol": "ada",
+      "amount": 1000,
+      "purchasePrice": 1.2,
+      "purchaseDate": "2022-05-01",
+      "image": "https://assets.coingecko.com/coins/images/975/large/cardano.png",
+      "notes": "Bag holding from previous cycle",
+      "addedDate": "2022-05-01T16:45:00Z"
+    },
+    {
+      "id": "5",
+      "coinId": "polkadot",
+      "name": "Polkadot",
+      "symbol": "dot",
+      "amount": 50,
+      "purchasePrice": 7.5,
+      "purchaseDate": "2024-03-01",
+      "image": "https://assets.coingecko.com/coins/images/12171/large/polkadot.png",
+      "notes": "Ecosystem play",
+      "addedDate": "2024-03-01T11:20:00Z"
+    },
+    {
+      "id": "6",
+      "coinId": "dogecoin",
+      "name": "Dogecoin",
+      "symbol": "doge",
+      "amount": 5000,
+      "purchasePrice": 0.08,
+      "purchaseDate": "2023-12-01",
+      "image": "https://assets.coingecko.com/coins/images/5/large/dogecoin.png",
+      "notes": "Meme portfolio allocation",
+      "addedDate": "2023-12-01T20:00:00Z"
+    },
+    {
+      "id": "7",
+      "coinId": "chainlink",
+      "name": "Chainlink",
+      "symbol": "link",
+      "amount": 200,
+      "purchasePrice": 15,
+      "purchaseDate": "2024-02-15",
+      "image": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png",
+      "notes": "Oracle infrastructure bet",
+      "addedDate": "2024-02-15T13:10:00Z"
+    },
+    {
+      "id": "a9e8",
+      "coinId": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "amount": 0.5,
+      "purchasePrice": 50000,
+      "purchaseDate": "2024-01-01",
+      "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png"
+    },
+    {
+      "id": "7314",
+      "coinId": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "amount": 5,
+      "purchasePrice": 50000,
+      "purchaseDate": "2024-01-01",
+      "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png"
+    }
+  ]
+}
